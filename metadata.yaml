@@ -1,0 +1,46 @@
+_repo: Charles-Frohman--Manager-and-Man_26146
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Barrie, J. M. (James Matthew)
+    aliases:
+    - Barrie, J.M.
+    - Barrie, James Matthew
+    birthdate: 1860
+    deathdate: 1937
+    gutenberg_agent_id: '10'
+    url: http://www.gutenberg.org/2009/agents/10
+    wikipedia: http://en.wikipedia.org/wiki/J._M._Barrie
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Frohman, Daniel
+    birthdate: 1851
+    deathdate: 1940
+    gutenberg_agent_id: '31824'
+    url: http://www.gutenberg.org/2009/agents/31824
+  - agent_name: Marcosson, Isaac Frederick
+    birthdate: 1876
+    deathdate: 1961
+    gutenberg_agent_id: '7988'
+    url: http://www.gutenberg.org/2009/agents/7988
+    wikipedia: http://en.wikipedia.org/wiki/Isaac_Frederick_Marcosson
+description: ''
+gutenberg_issued: '2008-07-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26146'
+  lccn: '16022355'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Theater -- United States'
+- !lcc 'PN'
+- !lcsh 'Frohman, Charles, 1860-1915'
+- !lcc 'CT'
+title: 'Charles Frohman: Manager and Man'
+url: http://www.gutenberg.org/ebooks/26146
