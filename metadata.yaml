@@ -28,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7988
     wikipedia: http://en.wikipedia.org/wiki/Isaac_Frederick_Marcosson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26146#Charles-Frohman--Manager-and-Man
 gutenberg_issued: '2008-07-29'
 gutenberg_type: Text
 identifiers:
